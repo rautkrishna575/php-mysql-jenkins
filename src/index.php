@@ -63,7 +63,7 @@ $visitors = $pdo->query(
 </head>
 <body>
     <h1>PHP + MySQL + Docker + Git</h1>
-    <p class="status">Application running successfully!</p>
+    <p class="status">Application running successfully! This is a demo file.</p>
     <p>MySQL connection: successful</p>
 
     <h2>Visitors</h2>
